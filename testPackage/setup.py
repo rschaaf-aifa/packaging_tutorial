@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="testPackage",
+    name="package_tutorial",
     version="0.0.1",
     author="Reinhold Schaaf",
     author_email="rschaaf@astro.uni-bonn.de",
